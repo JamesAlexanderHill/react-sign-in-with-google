@@ -1,5 +1,9 @@
 ## Install ##
-`npm install react-sign-in-with-google` or `yarn add react-sign-in-with-google`
+`npm install react-sign-in-with-google`
+
+or
+
+`yarn add react-sign-in-with-google`
 
 ## How to use ##
 ```

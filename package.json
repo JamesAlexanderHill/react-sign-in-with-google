@@ -1,6 +1,6 @@
 {
   "name": "react-sign-in-with-google",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sign in with Google + One-Tap Component for React",
   "source": "src/index.js",
   "main": "dist/main.js",
@@ -8,6 +8,7 @@
   "repository": "git@github.com:JamesAlexanderHill/react-sign-in-with-google.git",
   "author": "James Hill <info@jamesalexanderhill.com>",
   "license": "MIT",
+  "keywords": ["react", "reactjs", "react-component", "google-login", "one-tap", "google-identity-services", ],
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "watch": "parcel watch",
