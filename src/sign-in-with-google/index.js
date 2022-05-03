@@ -1,6 +1,4 @@
-import React, {useEffect, useState} from 'react';
-
-const SignInWithGoogleJS = ({
+const SignInWithGoogle = ({
     buttonId = 'buttonDiv',
     clientId = '',
     handleGoogleSignIn = (args) => console.log('handleGoogleSignIn', {args}),
@@ -43,4 +41,4 @@ const SignInWithGoogleJS = ({
     );
 }
 
-export default SignInWithGoogleJS;
+export default SignInWithGoogle;
